@@ -88,7 +88,7 @@ User can start logging a reflection.
 
 ### 🧘 4️⃣ Mood Check Page
 
-<img src="APP_INFO/mood_check_page.jpeg" width="250">
+<img src="APP_INFO/mood-check_page.jpeg" width="250">
 
 User selects:
 
@@ -193,4 +193,5 @@ This project was built with focus on:
 Give it a ⭐ on GitHub  
 Share feedback  
 Fork & improve  
+
 
